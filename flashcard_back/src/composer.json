@@ -29,7 +29,8 @@
             "Database\\Seeders\\": "database/seeders/",
             "Marssilen\\Core\\": "packages/Marssilen/Core/src",
             "Marssilen\\Practice\\": "packages/Marssilen/Practice/src",
-            "Marssilen\\Flashcard\\": "packages/Marssilen/Flashcard/src"
+            "Marssilen\\Flashcard\\": "packages/Marssilen/Flashcard/src",
+            "Marssilen\\Statistic\\": "packages/Marssilen/Statistic/src"
         }
     },
     "autoload-dev": {
