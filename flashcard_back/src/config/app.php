@@ -198,6 +198,8 @@ return [
         Prettus\Repository\Providers\RepositoryServiceProvider::class,
         Konekt\Concord\ConcordServiceProvider::class,
 
+
+        Marssilen\Core\Providers\CoreServiceProvider::class,
     ],
 
     /*

@@ -1,0 +1,25 @@
+{
+    "name": "flashcard/laravel-core",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramin Rezaei",
+            "email": "marssilen5@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Marssilen\\Core\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Marssilen\\Core\\Providers\\CoreServiceProvider"
+            ],
+            "aliases": { }
+        }
+    },
+    "minimum-stability": "dev"
+}
