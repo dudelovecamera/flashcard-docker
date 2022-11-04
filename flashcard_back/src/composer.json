@@ -27,7 +27,8 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Marssilen\\Core\\": "packages/Marssilen/Core/src"
+            "Marssilen\\Core\\": "packages/Marssilen/Core/src",
+            "Marssilen\\Flashcard\\": "packages/Marssilen/Flashcard/src"
         }
     },
     "autoload-dev": {

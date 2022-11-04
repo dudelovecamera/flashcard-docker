@@ -200,6 +200,7 @@ return [
 
 
         Marssilen\Core\Providers\CoreServiceProvider::class,
+        Marssilen\Flashcard\Providers\FlashcardServiceProvider::class,
     ],
 
     /*
